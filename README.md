@@ -1,7 +1,7 @@
-# OCTOPortal管理端
+# OCTO-Portal管理端
 
 ## 背景描述
-OCTOPortal是美团OCTO服务治理体系的管理端，是为各类服务提供节点操作、配置等功能的管理平台。
+OCTO-Portal是美团OCTO服务治理体系的管理端，是为各类服务提供节点操作、配置等功能的管理平台。
 
 ## 主页截图
 ![主页概览](./docs/img/outline.png)
